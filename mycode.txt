@@ -2,6 +2,6 @@ print("Hello")
 print("ONLINE CODE")
 response = (str(input("hi")))
 if response == "hello":
-    print("welcome")
+ print("welcome")
 else:
-    print("idk")
+ print("idk")
