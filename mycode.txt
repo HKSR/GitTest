@@ -1,4 +1,3 @@
 print("Hello")
 print("ONLINE CODE")
-response = (str(input("hi")))
-
+response = (str(input("hi: ")))
