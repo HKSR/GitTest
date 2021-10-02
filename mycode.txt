@@ -1,7 +1,4 @@
 print("Hello")
 print("ONLINE CODE")
 response = (str(input("hi")))
-if response == "hello":
- print("welcome")
-else:
- print("idk")
+
